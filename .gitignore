@@ -48,6 +48,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 .env
+.env_gpt4
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

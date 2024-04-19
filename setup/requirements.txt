@@ -1,0 +1,6 @@
+lida[transformers, infographics]==0.0.14
+llmx==0.0.21a0
+openai==1.23.1
+python-dotenv==1.0.1
+peacasso==0.0.19a0
+ipywidgets==8.1.2
